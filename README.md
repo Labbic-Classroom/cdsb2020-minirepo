@@ -1,4 +1,9 @@
-# CDSB2020_minirepo
+# cdsb2020-minirepo
 
-Repo del curso CDSB2020
+Repositorio del curso CDSB 2020 (Comunidad de Desarrolladores de Software en Bioinformática).
 
+---
+
+## English
+
+CDSB 2020 course repository (Community of Bioinformatics Software Developers).
